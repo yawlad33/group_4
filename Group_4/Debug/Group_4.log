@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\yawla\OneDrive\Desktop\Лабы\Group_4\Group_4\Source.cpp(190,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yawla\OneDrive\Desktop\Лабы\Group_4\Group_4\Source.cpp(203,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yawla\OneDrive\Desktop\Лабы\Group_4\Group_4\Source.cpp(217,19): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\yawla\OneDrive\Desktop\Лабы\Group_4\Group_4\Source.cpp(238,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yawla\OneDrive\Desktop\Лабы\Group_4\Group_4\Source.cpp(251,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yawla\OneDrive\Desktop\Лабы\Group_4\Group_4\Source.cpp(265,19): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\yawla\OneDrive\Desktop\Лабы\Group_4\Group_4\Source.cpp(287,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yawla\OneDrive\Desktop\Лабы\Group_4\Group_4\Source.cpp(300,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\yawla\OneDrive\Desktop\Лабы\Group_4\Group_4\Source.cpp(314,19): warning C4018: >: несоответствие типов со знаком и без знака
+  Group_4.vcxproj -> C:\Users\yawla\OneDrive\Desktop\Лабы\Group_4\Debug\Group_4.exe
